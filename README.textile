@@ -1,0 +1,17 @@
+h1. Heelp! Accessory
+
+Provide channel specific help on the publish pages.
+
+h2. Installation
+
+Heelp! is built to run on EE 2.0. To setup:
+
+* Copy the heelp folder into your /system/expressionengine/third_party/ directory.
+* Navigation to Add-Ons > Accessories and install the accessory.
+* Change to display only on the Content > Publish page and to whatever member groups you want.
+
+h2. Adding Instructions
+
+* Determine the ID for the channel that you want to add instructions for.
+* Create a file in /system/expressionengine/third_party/heelp/views/channel__ID_.php (where ID is the ID for the channel).
+* Add whatever HTML you want.
