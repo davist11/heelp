@@ -13,5 +13,5 @@ Heelp! is built to run on EE 2.0. To setup:
 h2. Adding Instructions
 
 * Determine the ID for the channel that you want to add instructions for.
-* Create a file in /system/expressionengine/third_party/heelp/views/channel_*ID*.php (where ID is the ID for the channel).
+* Create a file in /system/expressionengine/third_party/heelp/views/channel_ID.php (where ID is the ID for the channel).
 * Add whatever HTML you want.
