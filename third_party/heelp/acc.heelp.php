@@ -4,7 +4,7 @@ class Heelp_acc {
 
 	var $name		= 'Heelp!';
 	var $id			= 'heelp';
-	var $version		= '1.0';
+	var $version		= '1.1';
 	var $description	= 'Provide instructions to clients on the channel publish pages.';
 	var $sections		= array();
 
